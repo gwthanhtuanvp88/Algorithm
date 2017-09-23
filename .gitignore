@@ -32,8 +32,8 @@
 *.app
 
 #Other
-.ipch
-.tlog
-.idb
-.db
-.lastbuildstate
+*.ipch
+*.tlog
+*.idb
+*.db
+*.lastbuildstate
